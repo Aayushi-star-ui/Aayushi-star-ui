@@ -1,14 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Hi%2C%20I'm%20Ayushi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%E2%80%A2%20Aspiring%20Data%20Scientist%20%E2%80%A2%20MCA%20Student&descAlignY=58&descSize=20&descColor=9ad1ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0072ff,100:7b2ff7&height=320&section=header&text=Ayushi&fontSize=90&fontColor=ffffff&fontAlignY=36&stroke=ffffff&strokeWidth=1&animation=fadeIn&desc=%F0%9F%93%8A%20Data%20Analyst%20%E2%80%A2%20%F0%9F%A4%96%20Aspiring%20Data%20Scientist%20%E2%80%A2%20%F0%9F%8E%93%20MCA%20Student&descSize=22&descAlignY=58&descColor=ffffff" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=800&lines=Turning+raw+data+into+business+decisions+%F0%9F%93%8A;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau+%7C+Machine+Learning;Cleaning+%E2%86%92+Analyzing+%E2%86%92+Visualizing+%E2%86%92+Predicting;Open+to+Internships+%26+Entry-Level+Data+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=820&lines=Turning+raw+data+into+business+decisions+%F0%9F%93%8A;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau+%7C+Machine+Learning;Cleaning+%E2%86%92+Analyzing+%E2%86%92+Visualizing+%E2%86%92+Predicting;Open+to+Internships+%26+Entry-Level+Data+Roles+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/><br/>
 
 ![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Data%20Analyst%20%7C%20Data%20Scientist-brightgreen?style=for-the-badge)
 ![MCA](https://img.shields.io/badge/MCA-GMN%20College-orange?style=for-the-badge)
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=2c5364&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/your-username?style=for-the-badge&logo=github&color=181717)
 
 <br/>
 
@@ -20,25 +21,91 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,50:0072ff,100:7b2ff7&height=4&section=header" width="100%"/>
 
 ## 👩‍💻 About Me
 
-> *"Data is only valuable when it leads to a decision."*
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
+</div>
 
-I'm **Ayushi**, an **MCA (1st Year)** student at **GMN College** with a strong foundation in **data analysis** and a clear goal: to become a **Data Scientist**.
+<br/>
 
-I enjoy working with messy real-world data, uncovering the story hidden inside it, and presenting insights that people can actually act on.
+I'm **Ayushi**, an **MCA (1st Year)** student at **GMN College** with a strong foundation in **data analysis** and a clear goal: to become a **Data Scientist**. I enjoy working with messy real-world data, uncovering the story hidden inside it, and presenting insights that people can act on.
 
-| | |
-|---|---|
-| 🎓 **Education** | Master of Computer Applications (MCA), GMN College |
-| 🔭 **Currently Building** | Machine Learning projects & interactive dashboards |
-| 🌱 **Currently Learning** | Machine Learning, Deep Learning, NLP, Model Deployment |
-| 💼 **Looking For** | Data Analyst / Data Science internships & entry-level roles |
-| ⚡ **Strengths** | Analytical thinking, problem solving, data storytelling, quick learner |
+<table>
+<tr>
+<td>
 
----
+🎓 **Education**
+MCA, GMN College
+
+</td>
+<td>
+
+🔭 **Building**
+ML projects & dashboards
+
+</td>
+<td>
+
+🌱 **Learning**
+ML, Deep Learning, NLP
+
+</td>
+<td>
+
+💼 **Looking For**
+Data Analyst / Data Science roles
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,50:0072ff,100:7b2ff7&height=4&section=header" width="100%"/>
+
+## ⭐ Why You Should Hire Me
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 📊
+**Complete Analyst Toolkit**
+Python, SQL, Excel, Power BI & Tableau
+
+</td>
+<td align="center" width="25%">
+
+### 🧹
+**Clean, Reliable Data**
+Strong cleaning, EDA and statistics
+
+</td>
+<td align="center" width="25%">
+
+### 🗣️
+**Clear Communication**
+Insights explained to non-technical teams
+
+</td>
+<td align="center" width="25%">
+
+### 🚀
+**Fast Learner**
+Actively growing into ML & Data Science
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![Hire Me](https://img.shields.io/badge/%F0%9F%93%A9%20Hire%20Me-your--email%40gmail.com-ff3d71?style=for-the-badge)](mailto:your-email@gmail.com)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,50:0072ff,100:7b2ff7&height=4&section=header" width="100%"/>
 
 ## 🛠️ Skills & Tech Stack
 
@@ -57,34 +124,61 @@ I enjoy working with messy real-world data, uncovering the story hidden inside i
 
 </div>
 
-### 🧠 Core Competencies
+### 📶 Proficiency
 
-| Domain | What I Do |
-|---|---|
-| 🧹 **Data Cleaning & Preprocessing** | Missing values, duplicates, outliers, data type fixes, feature engineering |
-| 🔍 **Exploratory Data Analysis** | Univariate & bivariate analysis, correlation, trend and pattern detection |
-| 📐 **Statistics** | Descriptive & inferential statistics, probability, hypothesis testing |
-| 🗄️ **SQL** | Joins, subqueries, CTEs, window functions, aggregations |
-| 📊 **Data Visualization & BI** | Power BI, Tableau, DAX, KPI dashboards, Matplotlib, Seaborn |
-| 🤖 **Machine Learning** | Regression, classification, clustering, model evaluation |
-| 🗣️ **Data Storytelling** | Turning numbers into clear, business-ready insights |
+> Adjust the bars to honestly match your own level.
 
-### 📈 Skill Distribution
+| Skill | Level | |
+|---|---|---|
+| 🐍 **Python (Pandas, NumPy)** | `█████████░` | **90%** |
+| 🗄️ **SQL** | `████████░░` | **80%** |
+| 🔍 **EDA & Data Cleaning** | `█████████░` | **90%** |
+| 📊 **Power BI / Tableau** | `████████░░` | **80%** |
+| 📗 **Advanced Excel** | `█████████░` | **85%** |
+| 📐 **Statistics** | `███████░░░` | **70%** |
+| 🤖 **Machine Learning** | `█████░░░░░` | **50% (growing)** |
+
+### 🧠 Skill Map
+
+```mermaid
+mindmap
+  root((Ayushi<br/>Data Skills))
+    Data Analysis
+      Data Cleaning
+      EDA
+      Statistics
+    Programming
+      Python
+      Pandas
+      NumPy
+    Databases
+      SQL
+      MySQL
+    Visualization
+      Power BI
+      Tableau
+      Matplotlib
+      Seaborn
+    Machine Learning
+      Regression
+      Classification
+      Clustering
+```
+
+### 📈 Skill Focus
 
 ```mermaid
 pie showData
-    title My Skill Focus
+    title Where I Spend My Time
     "Data Analysis & EDA" : 25
     "Python & Pandas" : 20
     "SQL" : 15
-    "Visualization (Power BI / Tableau)" : 20
+    "Visualization" : 20
     "Statistics" : 10
     "Machine Learning" : 10
 ```
 
-*(Adjust the numbers to match your own strengths.)*
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,50:0072ff,100:7b2ff7&height=4&section=header" width="100%"/>
 
 ## 🔄 How I Work
 
@@ -98,7 +192,7 @@ flowchart LR
     F --> G[📑 Insights & Recommendations]
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,50:0072ff,100:7b2ff7&height=4&section=header" width="100%"/>
 
 ## 🚀 Featured Projects
 
@@ -113,7 +207,9 @@ flowchart LR
 **What I did:** Cleaned data in Python, performed EDA, built an interactive Power BI dashboard.
 **Result:** *[e.g. Top 3 categories drive 62% of revenue]*
 
-`Python` `Pandas` `Power BI` `DAX`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 🔗 [View Project](https://github.com/your-username/sales-dashboard)
 
@@ -125,7 +221,9 @@ flowchart LR
 **What I did:** Feature engineering, trained Logistic Regression & Random Forest, evaluated with ROC-AUC.
 **Result:** *[e.g. 87% accuracy, 0.91 ROC-AUC]*
 
-`Python` `Scikit-learn` `Seaborn`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4c9fb5?style=flat-square)
 
 🔗 [View Project](https://github.com/your-username/churn-prediction)
 
@@ -137,21 +235,25 @@ flowchart LR
 ### 🗄️ SQL Business Analysis
 **Problem:** Answer key business questions on orders and customers.
 **What I did:** Wrote complex queries using joins, CTEs and window functions.
-**Result:** *[e.g. Found monthly growth and customer retention trends]*
+**Result:** *[e.g. Found monthly growth and retention trends]*
 
-`MySQL` `SQL` `Excel`
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 🔗 [View Project](https://github.com/your-username/sql-analysis)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔎 Exploratory Data Analysis Case Study
+### 🔎 EDA Case Study
 **Problem:** Understand patterns in a public dataset (e.g. Kaggle).
 **What I did:** Cleaned data, found correlations, built insightful visualizations.
-**Result:** *[e.g. Discovered X factor strongly impacts Y]*
+**Result:** *[e.g. Discovered X strongly impacts Y]*
 
-`Python` `Matplotlib` `Seaborn` `Jupyter`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 🔗 [View Project](https://github.com/your-username/eda-case-study)
 
@@ -159,41 +261,37 @@ flowchart LR
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,50:0072ff,100:7b2ff7&height=4&section=header" width="100%"/>
 
 ## 💼 Experience
 
-> Add your real experience here. Internships, freelance work, college projects, volunteering and club activities all count.
+> Add your real experience. Internships, freelance work, college projects, volunteering and club activities all count.
 
 ### 🔹 *[Role / Title]* — *[Company / Organization]*
 `MM/YYYY – MM/YYYY`
 - Analyzed *[dataset / problem]* using **Python and SQL** to *[achieve result]*
-- Built *[dashboard / report]* that helped *[team / stakeholder]* to *[outcome]*
+- Built *[dashboard / report]* that helped *[team]* to *[outcome]*
 - Improved *[process / metric]* by *[x%]*
 
-### 🔹 *[Academic / Self-Driven Project Experience]* — *GMN College / Self*
+### 🔹 Self-Driven Data Projects — *GMN College / Independent*
 `MM/YYYY – Present`
 - Practiced the complete data analysis workflow on real-world datasets
 - Built end-to-end projects covering **data cleaning, EDA, visualization and ML**
 - Documented projects on GitHub with clear READMEs and reproducible notebooks
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,50:0072ff,100:7b2ff7&height=4&section=header" width="100%"/>
 
-## 🎓 Education
+## 🎓 Education & 🏆 Certifications
 
-| Degree | Institute | Duration | Status |
-|---|---|---|---|
-| **MCA** (Master of Computer Applications) | GMN College | *[Year – Year]* | 1st Year (Ongoing) |
-
----
-
-## 🏆 Certifications & Achievements
+| Degree | Institute | Status |
+|---|---|---|
+| **MCA** (Master of Computer Applications) | GMN College | 1st Year (Ongoing) |
 
 - 🎖️ *[Certification name]* — *[Platform: Coursera / Google / Microsoft / NPTEL]*
 - 🎖️ *[Certification name]* — *[Platform]*
 - 🏅 *[Hackathon / Kaggle competition / College achievement]*
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,50:0072ff,100:7b2ff7&height=4&section=header" width="100%"/>
 
 ## 🗺️ Learning Journey
 
@@ -206,7 +304,7 @@ timeline
     Next : Deep Learning : NLP : Model Deployment
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,50:0072ff,100:7b2ff7&height=4&section=header" width="100%"/>
 
 ## 📊 GitHub Analytics
 
@@ -225,11 +323,17 @@ timeline
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub&no-frame=true&row=1&column=7" />
+
+<br/><br/>
+
+### 🟩 My Contribution Graph
+
+<img src="https://ghchart.rshah.org/2c9cf5/your-username" alt="GitHub contribution chart" width="95%" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,50:0072ff,100:7b2ff7&height=4&section=header" width="100%"/>
 
 ## 🤝 Let's Work Together
 
@@ -243,6 +347,6 @@ I'm actively looking for **internships and entry-level opportunities** in **Data
 
 ### ⭐ *Thanks for visiting my profile!* ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:0072ff,100:00c6ff&height=160&section=footer&animation=twinkling" width="100%"/>
 
 </div>
