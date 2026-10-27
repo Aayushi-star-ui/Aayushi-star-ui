@@ -140,57 +140,75 @@ Actively growing into ML & Data Science
 
 ### 🧠 Skill Map
 
-```mermaid
-mindmap
-  root((Ayushi<br/>Data Skills))
-    Data Analysis
-      Data Cleaning
-      EDA
-      Statistics
-    Programming
-      Python
-      Pandas
-      NumPy
-    Databases
-      SQL
-      MySQL
-    Visualization
-      Power BI
-      Tableau
-      Matplotlib
-      Seaborn
-    Machine Learning
-      Regression
-      Classification
-      Clustering
-```
+<table>
+<tr>
+<th align="center">📊 Data Analysis</th>
+<th align="center">🐍 Programming</th>
+<th align="center">🗄️ Databases</th>
+<th align="center">📈 Visualization</th>
+<th align="center">🤖 Machine Learning</th>
+</tr>
+<tr>
+<td valign="top">
+
+- Data Cleaning
+- EDA
+- Statistics
+
+</td>
+<td valign="top">
+
+- Python
+- Pandas
+- NumPy
+
+</td>
+<td valign="top">
+
+- SQL
+- MySQL
+
+</td>
+<td valign="top">
+
+- Power BI
+- Tableau
+- Matplotlib
+- Seaborn
+
+</td>
+<td valign="top">
+
+- Regression
+- Classification
+- Clustering
+
+</td>
+</tr>
+</table>
 
 ### 📈 Skill Focus
 
-```mermaid
-pie showData
-    title Where I Spend My Time
-    "Data Analysis & EDA" : 25
-    "Python & Pandas" : 20
-    "SQL" : 15
-    "Visualization" : 20
-    "Statistics" : 10
-    "Machine Learning" : 10
-```
+| Area | Time Spent | |
+|---|---|---|
+| 🔍 **Data Analysis and EDA** | `█████████████░░░░░░░` | **25%** |
+| 🐍 **Python and Pandas** | `██████████░░░░░░░░░░` | **20%** |
+| 📈 **Visualization** | `██████████░░░░░░░░░░` | **20%** |
+| 🗄️ **SQL** | `███████░░░░░░░░░░░░░` | **15%** |
+| 📐 **Statistics** | `█████░░░░░░░░░░░░░░░` | **10%** |
+| 🤖 **Machine Learning** | `█████░░░░░░░░░░░░░░░` | **10%** |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,50:0072ff,100:7b2ff7&height=4&section=header" width="100%"/>
 
 ## 🔄 How I Work
 
-```mermaid
-flowchart LR
-    A[📥 Collect Data] --> B[🧹 Clean & Preprocess]
-    B --> C[🔍 Explore - EDA]
-    C --> D[📐 Statistical Analysis]
-    D --> E[📊 Visualize & Dashboard]
-    E --> F[🤖 Model & Predict]
-    F --> G[📑 Insights & Recommendations]
-```
+<div align="center">
+
+**📥 Collect Data** ➜ **🧹 Clean and Preprocess** ➜ **🔍 Explore (EDA)** ➜ **📐 Statistical Analysis**
+
+➜ **📊 Visualize and Dashboard** ➜ **🤖 Model and Predict** ➜ **📑 Insights and Recommendations**
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,50:0072ff,100:7b2ff7&height=4&section=header" width="100%"/>
 
@@ -295,14 +313,12 @@ flowchart LR
 
 ## 🗺️ Learning Journey
 
-```mermaid
-timeline
-    title My Data Science Journey
-    Foundation : Python Programming : SQL & Databases : Excel
-    Data Analyst Skills : Data Cleaning : EDA : Statistics : Power BI & Tableau
-    Now : Machine Learning : Real-world Projects : GitHub Portfolio
-    Next : Deep Learning : NLP : Model Deployment
-```
+| Stage | What I Learned / Am Learning |
+|---|---|
+| 🧱 **Foundation** | Python Programming, SQL and Databases, Excel |
+| 📊 **Data Analyst Skills** | Data Cleaning, EDA, Statistics, Power BI and Tableau |
+| 🚀 **Now** | Machine Learning, Real-world Projects, GitHub Portfolio |
+| 🔮 **Next** | Deep Learning, NLP, Model Deployment |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,50:0072ff,100:7b2ff7&height=4&section=header" width="100%"/>
 
