@@ -8,15 +8,13 @@
 
 ![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Data%20Analyst%20%7C%20Data%20Scientist-brightgreen?style=for-the-badge)
 ![MCA](https://img.shields.io/badge/MCA-GMN%20College-orange?style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=2c5364&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/your-username?style=for-the-badge&logo=github&color=181717)
+![Profile Views](https://komarev.com/ghpvc/?username=Aayushi-star-ui&label=Profile%20Views&color=2c5364&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Aayushi-star-ui?style=for-the-badge&logo=github&color=181717)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/your-username)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushi-rana-21b8132b7/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayushiaayushi351@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-Download-success?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://your-resume-link.com)
 
 </div>
@@ -101,7 +99,7 @@ Actively growing into ML & Data Science
 
 <div align="center">
 
-[![Hire Me](https://img.shields.io/badge/%F0%9F%93%A9%20Hire%20Me-your--email%40gmail.com-ff3d71?style=for-the-badge)](mailto:your-email@gmail.com)
+[![Hire Me](https://img.shields.io/badge/%F0%9F%93%A9%20Hire%20Me-aayushiaayushi351%40gmail.com-ff3d71?style=for-the-badge)](mailto:aayushiaayushi351@gmail.com)
 
 </div>
 
@@ -229,7 +227,7 @@ Actively growing into ML & Data Science
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-🔗 [View Project](https://github.com/your-username/sales-dashboard)
+🔗 [View Project](https://github.com/Aayushi-star-ui/sales-dashboard)
 
 </td>
 <td width="50%" valign="top">
@@ -243,7 +241,7 @@ Actively growing into ML & Data Science
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4c9fb5?style=flat-square)
 
-🔗 [View Project](https://github.com/your-username/churn-prediction)
+🔗 [View Project](https://github.com/Aayushi-star-ui/churn-prediction)
 
 </td>
 </tr>
@@ -259,7 +257,7 @@ Actively growing into ML & Data Science
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-🔗 [View Project](https://github.com/your-username/sql-analysis)
+🔗 [View Project](https://github.com/Aayushi-star-ui/sql-analysis)
 
 </td>
 <td width="50%" valign="top">
@@ -273,7 +271,7 @@ Actively growing into ML & Data Science
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-🔗 [View Project](https://github.com/your-username/eda-case-study)
+🔗 [View Project](https://github.com/Aayushi-star-ui/eda-case-study)
 
 </td>
 </tr>
@@ -326,26 +324,20 @@ Actively growing into ML & Data Science
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Aayushi-star-ui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayushi-star-ui&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Aayushi-star-ui&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&hide_border=true&area=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayushi-star-ui&theme=react-dark&hide_border=true&area=true" width="95%" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub&no-frame=true&row=1&column=7" />
-
-<br/><br/>
-
-### 🟩 My Contribution Graph
-
-<img src="https://ghchart.rshah.org/2c9cf5/your-username" alt="GitHub contribution chart" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Aayushi-star-ui&theme=darkhub&no-frame=true&row=1&column=7" />
 
 </div>
 
@@ -357,7 +349,7 @@ I'm actively looking for **internships and entry-level opportunities** in **Data
 
 <div align="center">
 
-📧 **your-email@gmail.com** &nbsp;|&nbsp; 🔗 **[LinkedIn](https://www.linkedin.com/in/your-linkedin/)** &nbsp;|&nbsp; 🌐 **[Portfolio](https://your-portfolio-link.com)**
+📧 **aayushiaayushi351@gmail.com** &nbsp;|&nbsp; 🔗 **[LinkedIn](https://www.linkedin.com/in/ayushi-rana-21b8132b7/)**
 
 <br/>
 
